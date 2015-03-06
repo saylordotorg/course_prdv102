@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV102: Resume Writing"
+course_description: "This course will help you effectively develop employment application materials for today’s job market by honing your resume writing skills, providing you with tools to create an impressive resume (or to improve the one you already have), and give suggestions on developing an effective cover letter."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Key Components of a Resume and Cover Letter** <span
 id="2"></span> 
 *Now that you have an understanding of the basic function of a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV102: Resume Writing"
+course_description: "This course will help you effectively develop employment application materials for today’s job market by honing your resume writing skills, providing you with tools to create an impressive resume (or to improve the one you already have), and give suggestions on developing an effective cover letter."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to the Resume** <span id="1"></span> 
 *In this unit, you will learn about the function of a professional
 resume and the different types of resumes typically presented in today’s
